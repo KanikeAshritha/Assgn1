@@ -6,3 +6,5 @@ Above image is the output of the command git log.It shows the log of all commits
 "hello commit" is commit which is committed when the message "hello" is changed to "hello minfy".
 "evening commit" is commit which is committed when the message "good morning everyone" is changed to "good evening everyone".
 "minfy commit" is commit which is committed when the message "hive space" is changed to "minfy is in hive space".
+
+<img width="960" alt="assgn2-img" src="https://github.com/user-attachments/assets/83a33a99-7215-4d7c-a2f7-bd3acaaeca01" />
